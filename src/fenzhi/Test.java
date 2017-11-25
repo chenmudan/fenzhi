@@ -11,6 +11,7 @@ public class Test {
 		System.out.println("分支1");
 		System.out.println("分支测试2");
 		System.out.println("分支测试4");
+		System.out.println("分支测试5");
 	}
 
 }
