@@ -12,6 +12,7 @@ public class Test {
 		System.out.println("分支测试2");
 		System.out.println("分支测试4");
 		System.out.println("分支测试5");
+		System.out.println("分支测试：分支再创建分支");
 	}
 
 }
