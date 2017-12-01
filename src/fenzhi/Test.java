@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("123456");
 		System.out.println("456");
 		System.out.println("分支测试2");
+		System.out.println("分支测试3");
 	}
 
 }
